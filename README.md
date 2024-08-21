@@ -12,7 +12,7 @@ This project serves to build a real-time Big Data processing pipeline. It covers
 
 ## System Architecture
 
-![System Architecture](Data engineering architecture (1))
+![System Architecture](Data engineering architecture (1).png)
 
 The project is designed with the following components:
 
