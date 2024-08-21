@@ -3,14 +3,12 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
-- [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 
-This project serves as a comprehensive guide to building an end-to-end data engineering pipeline. It covers each stage from data ingestion to processing and finally to storage, utilizing a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
+This project serves to build a real-time Big Data processing pipeline. It covers each stage from data ingestion to processing and finally to storage. It utilizes a robust tech stack that includes Apache Airflow, Python, Apache Kafka, Apache Zookeeper, Apache Spark, and Cassandra. Everything is containerized using Docker for ease of deployment and scalability.
 
 ## System Architecture
 
@@ -38,17 +36,17 @@ The project is designed with the following components:
 
 ## Getting Started
 
-1. Clone the repository:
+1. Clone the repository using clone command:
     ```bash
     git clone https://github.com/airscholar/e2e-data-engineering.git
     ```
 
-2. Navigate to the project directory:
+2. Navigate to the project directory using cd command:
     ```bash
-    cd e2e-data-engineering
+    cd Real-Time-Big-Data-Processing
     ```
 
 3. Run Docker Compose to spin up the services:
     ```bash
-    docker-compose up
+    docker-compose up -d
     ```
