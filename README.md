@@ -1,6 +1,6 @@
 # Realtime Big Data Processing 
 
-## Table of Contents
+## Table of Contents 
 - [Introduction](#introduction)
 - [System Architecture](#system-architecture)
 - [Technologies](#technologies)
