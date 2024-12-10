@@ -38,7 +38,7 @@ The project is designed with the following components:
 
 1. Clone the repository using clone command:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/manan145/Real-Time-Big-Data-Processing.git
     ```
 
 2. Navigate to the project directory using cd command:
